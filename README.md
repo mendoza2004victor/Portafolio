@@ -28,7 +28,10 @@
 - **Nombre:** Víctor Mendoza  
 - **Carrera:** Ingeniería en Sistemas  
 - **Contacto:** victormendoz8@gmail.com 
-- **GitHub:** [https://https://github.com/mendoza2004victor]
+- **Redes sociales:**
+  - [GitHub](https://https://github.com/mendoza2004victor)
+  - [Instagram](https://www.instagram.com/_victor_m7)
+  - [Facebook](https://www.facebook.com/victor.mendoza.626440)
 ---
 ## 🚀 ¿Cómo ver el portafolio?
 
@@ -46,3 +49,8 @@ Este proyecto está en constante mejora. Pronto incluiré:
 - Más proyectos
 - Funcionalidades interactivas con JavaScript
 - Conexión a redes sociales
+
+## 🆕 Actualizaciones recientes
+
+- Agregado pie de página con íconos de redes sociales (GitHub, LinkedIn, Instagram)
+- Ajustado el diseño del footer para mejor alineación y estética
